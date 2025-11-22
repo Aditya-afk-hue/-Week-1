@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+matplotlib
+scikit-learn
+requests
+google-genai
+protobuf<4.0.0
+python-dotenv
